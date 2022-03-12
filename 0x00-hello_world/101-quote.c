@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<unistd.h>
 /**
- * manin - Enty point
+ * main - Enty point
  *
  * Return: Always 1 (Success)
  */
