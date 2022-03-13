@@ -1,4 +1,4 @@
-#include<stdio.h> 
+#include<stdio.h>
 /**
  * main - print numbers from 00 to 99.
  *
@@ -20,7 +20,7 @@ if (i == '8' && j == '9')
 {
 putchar('\n');
 }
-else 
+else
 { putchar(',');
 putchar(' ');
 }
